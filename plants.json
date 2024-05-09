@@ -1,0 +1,80 @@
+{
+    "plants": [
+        {
+            "name": "airplants",
+            "maxDaysBetweenWatering": 10
+        },
+        {
+            "name": "aloe aristatas",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "aloe midnights",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "aloe oiks",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "asparagus ferns",
+            "maxDaysBetweenWatering": 10
+        },
+        {
+            "name": "cacti",
+            "maxDaysBetweenWatering": 30
+        },
+        {
+            "name": "calatheas",
+            "maxDaysBetweenWatering": 10
+        },
+        {
+            "name": "cocoon plants",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "cocoon plant cutting",
+            "maxDaysBetweenWatering": 10
+        },
+        {
+            "name": "coral aloe",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "echeverias",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "haworthias",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "hoyas",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "jade plant",
+            "maxDaysBetweenWatering": 14
+        },
+        {
+            "name": "pothos",
+            "maxDaysBetweenWatering": 10
+        },
+        {
+            "name": "rhaphidophora",
+            "maxDaysBetweenWatering": 10
+        },
+        {
+            "name": "small plants",
+            "maxDaysBetweenWatering": 6
+        },
+        {
+            "name": "tradescantia",
+            "maxDaysBetweenWatering": 10
+        },
+        {
+            "name": "tree",
+            "maxDaysBetweenWatering": 25
+        }
+    ]
+}
