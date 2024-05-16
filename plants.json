@@ -6,15 +6,15 @@
         },
         {
             "name": "aloe aristatas",
-            "maxDaysBetweenWatering": 14
+            "maxDaysBetweenWatering": 12
         },
         {
             "name": "aloe midnights",
-            "maxDaysBetweenWatering": 14
+            "maxDaysBetweenWatering": 12
         },
         {
             "name": "aloe oiks",
-            "maxDaysBetweenWatering": 14
+            "maxDaysBetweenWatering": 12
         },
         {
             "name": "asparagus ferns",
@@ -22,7 +22,7 @@
         },
         {
             "name": "cacti",
-            "maxDaysBetweenWatering": 30
+            "maxDaysBetweenWatering": 20
         },
         {
             "name": "calatheas",
@@ -34,19 +34,19 @@
         },
         {
             "name": "cocoon plant cutting",
-            "maxDaysBetweenWatering": 10
+            "maxDaysBetweenWatering": 9
         },
         {
             "name": "coral aloe",
-            "maxDaysBetweenWatering": 14
+            "maxDaysBetweenWatering": 12
         },
         {
             "name": "echeverias",
-            "maxDaysBetweenWatering": 14
+            "maxDaysBetweenWatering": 12
         },
         {
             "name": "haworthias",
-            "maxDaysBetweenWatering": 14
+            "maxDaysBetweenWatering": 12
         },
         {
             "name": "hoyas",
@@ -54,7 +54,7 @@
         },
         {
             "name": "jade plant",
-            "maxDaysBetweenWatering": 14
+            "maxDaysBetweenWatering": 12
         },
         {
             "name": "pothos",

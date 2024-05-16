@@ -79,7 +79,7 @@ getPastDays(pastDays => {
     }).map(plant => plant.plantName);
 
     console.log("Plants that need to be watered: ");
-    console.log(plantsThatNeedToBeWatered);
+    console.log(plantsThatNeedToBeWatered.join(", "));
 
 }, error => {
     console.log("An error was encountered");
